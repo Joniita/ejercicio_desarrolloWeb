@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(90, 245, 154);
+}
+
+.img {
+    width: 500px;
+    border: solid 10px green ;
+    border-radius: 10px;
+}
+
+.parrafo {
+    background-color: green;
+    box-shadow: 2px 2px 2px 2px rgb(62, 75, 62);
+    margin-bottom: 30px;
+}
+
+.button{
+    background-color: #ccc;
+    border: solid 1px rgb(95, 93, 93);
+    width: auto;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 1px gray;
+}
+
+a {
+    text-decoration: none;
+}
